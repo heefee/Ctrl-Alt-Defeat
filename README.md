@@ -15,11 +15,8 @@ Created in under 24 hours, the game combines fast-paced movement, level design, 
 - Unity
 
 ## My Contribution
-- Implemented player movement, physics, and input system, shooting
 - Animations 
-- Helped design the main gameplay loop and structure
 - Contributed to level balancing and design
-- UI
 - Bug fixing during the final submission phase  
 
 
